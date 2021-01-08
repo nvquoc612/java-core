@@ -1,0 +1,2 @@
+1. Nếu khai báo biến float thì có cần khai báo đuôi f phía sau không ?
+VD : float f = 1f;

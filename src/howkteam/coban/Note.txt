@@ -1,0 +1,5 @@
+===Biến====
+1. Nếu khai báo biến float thì có cần khai báo đuôi f phía sau không ?
+VD : float f = 1f;
+===Kiểu dữ liệu====
+1. Trong kiểu dữ liệu double và float , khi khai báo thì có đuôi d ở kiểu double còn đuôi f ở kiểu float thì có càn thiết không
